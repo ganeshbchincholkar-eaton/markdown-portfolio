@@ -1,5 +1,7 @@
 ---
-# layout: default
+
+###### layout: default
+
 ---
 
 [code](https://github.com/ganeshbchincholkar-eaton/markdown-portfolio/issues/url)
@@ -14,3 +16,15 @@
 
 {% include 03-links.md %}
 
+<br>
+
+{% include 04-lists.md %}
+
+<br>
+
+{% include 05-emphasis.md %}
+
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
